@@ -1,0 +1,314 @@
+
+
+
+
+
+
+amob Zß.
+Roll No.
+
+H moS Zß.
+Code No.
+
+55(B)
+
+
+
+
+
+* H• n`m Om±M H a b| {H Bg ‡ÌZ-nÃ _oß _w{–V n• 15 h¢ &
+* ‡ÌZ-nÃ _| Xm{hZo hmW H s Amoa {XE JE H moS ZÂ~a H mo NmÃ CŒma-nwpÒVH m Ho _wI-n• na
+{bI| &
+* H• n`m Om±M H a b| {H Bg ‡ÌZ-nÃ _| 26 ‡ÌZ h¢ &
+* H• n`m ‡ÌZ H m CŒma {bIZm ewÍ H aZo go nhbo, ‡ÌZ H m H" _mßH AdÌ` {bI| &
+* Bg ‡ÌZ-nÃ H mo nãTZo Ho {bE 15 {_ZQ H m g_` {X`m J`m h° & ‡ÌZ-nÃ H m {dVaU nydm(c)ï
+_| 10.15 ~Oo {H `m OmEJm &	10.15 ~Oo go 10.30 ~Oo VH NmÃ Ho db ‡ÌZ-nÃ H mo nãT|Jo Am°a Bg Ad{Y Ho Xm°amZ do CŒma-nwpÒVH m na H moB(c) CŒma Zht {bI|Jo &
+* Please check that this question paper contains 15 printed pages.
+* Code number given on the right hand side of the question paper should be written on the title page of the answer-book by the candidate.
+* Please check that this question paper contains 26 questions.
+* Please write down the Serial Number of the question before attempting it.
+* 15 minute time has been allotted to read this question paper. The question paper will be distributed at 10.15 a.m. From 10.15 a.m. to 10.30 a.m., the students will read the question paper only and will not write any answer on the answer-book during this period.
+^m°{VH {dkmZ (g°’mp›VH )
+(Ho db ZoÃhrZ narjm{W(c)`m| Ho {bE)
+PHYSICS (Theory)
+(FOR BLIND CANDIDATES ONLY)
+{ZYm(c)[aV g_` : 3 K Qo	A{YH V_ AßH : 70
+Time allowed : 3 hours	Maximum Marks : 70
+
+gm_m›` {ZX}e :
+(i) g^r ‡ÌZ A{Zdm`(c) h¢ & Bg ‡ÌZ-nÃ _| Hw b 26 ‡ÌZ h¢ &
+(ii) Bg ‡ÌZ-nÃ Ho nm±M ^mJ h¢ : I S A, I S ~, I S g, I S X Am°a I S ` &
+(iii) I S A _| nm±M ‡ÌZ h¢, ‡À`oH H m EH AßH h° & I S ~ _| nm±M ‡ÌZ h¢, ‡À`oH Ho Xmo AßH h¢ & I S g _| ~mah ‡ÌZ h¢, ‡À`oH Ho VrZ AßH h¢ & I S X _| Mma AßH H m EH _yÎ`mYm[aV ‡ÌZ h° Am°a I S ` _| VrZ ‡ÌZ h¢, ‡À`oH Ho nm±M AßH h¢ &
+(iv) ‡ÌZ-nÃ _| g_J" na H moB(c) {dH În Zht h° & VWm{n, Xmo AßH m| dmbo EH ‡ÌZ _|, VrZ
+AßH m| dmbo EH ‡ÌZ _| Am°a nm±M AßH m| dmbo VrZm| ‡ÌZm| _| Am›V[aH M`Z ‡XmZ
+{H `m J`m h° & Eogo ‡ÌZm| _| AmnH mo {XE JE M`Z _| go Ho db EH ‡ÌZ hr H aZm h° &
+(v) Ohm± AmdÌ`H hmo Amn {ZÂZ{b{IV ^m°{VH {Z`VmßH m| Ho _mZm| H m Cn`moJ H a gH Vo h¢ :
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 ? 10-12 C2 N-1 m-2
+
+1
+
+
+4 ??0
+
+= 9 ? 109 N m2 C-2
+
+me = 9.1 ? 10-31 kg
+›`yQ¥m∞Z H m –Ï`_mZ = 1.675 ? 10- 27 kg
+‡moQm∞Z H m –Ï`_mZ = 1.673 ? 10- 27 kg
+AmdmoJm–mo gß"`m = 6.023 ? 1023 ‡{V J"m_ _mob
+~moÎQ≤µO_mZ {Z`VmßH = 1.38 ? 10- 23 JK-1
+
+General Instructions :
+(i) All questions are compulsory. There are 26 questions in all.
+(ii) This question paper has five sections : Section A, Section B, Section C, Section D and Section E.
+(iii) Section A contains five questions of one mark each, Section B contains five questions of two marks each, Section C contains twelve questions of three marks each, Section D contains one value based question of four marks and Section E contains three questions of five marks each.
+(iv) There is no overall choice. However, an internal choice has been provided in one question of two marks, one question of three marks and all the three questions of five marks weightage. You have to attempt only one of the choices in such questions.
+(v) You may use the following values of physical constants wherever necessary :
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 ? 10-12 C2 N-1 m-2
+
+1
+4 ??0
+
+= 9 ? 109 N m2 C-2
+
+me = 9.1 ? 10-31 kg
+Mass of neutron = 1.675 ? 10-27 kg Mass of proton = 1.673 ? 10- 27 kg
+Avogadro's number = 6.023 ? 1023 per gram mole Boltzmann constant = 1.38 ? 10-23 JK-1
+
+I S A
+SECTION A
+
+1. {H gr EH g_mZ {d⁄wV≤-joÃ _| pÒWV d°⁄wV {€Y"wd {H g A{^{d›`mg _| ÒWm`r gßVwbZ _| hmoVm h° ?	1
+In what orientation is an electric dipole placed in a uniform electric field in stable equilibrium ?
+2. EH	BboäQ¥m∞Z, {Ogo V {d^d VH	Àd[aV {H `m J`m h°, go gÂ~’ Xo ~"m∞1/2br VaßJX°ø`(c) Ho {bE Ï`ßOH {b{IE &		1
+Write the expression for the de Broglie wavelength associated with an electron accelerated through a potential V.
+3. EH	H m±M Ho	b|g H mo {H gr –d H s –mo{UH m _|, {OgH m AndV(c)ZmßH	H m±M Ho AndV(c)ZmßH Ho ~am~a hmo, _| Sw~mo`m J`m & dh H m±M H m b|g H° gm {XImB(c) XoJm ?	1
+A glass lens is dipped in a trough of liquid having the same refractive index as that of the glass. How would the glass lens appear ?
+4. Z°O VWm An–Ï`r AY(c)MmbH m| _| ä`m A›Va hmoVm h° ?	1
+What is the difference between intrinsic and extrinsic semiconductors ?
+5. b|µO H m {Z`_ {b{IE &	1
+State Lenz's law.
+I S ~
+SECTION B
+6. ' a°{IH V: Yw"{dV ‡H me' nX H s n[a^mfm Xr{OE & O~ Xmo H" m∞{gV nmoboam∞BSm| Ho
+~rM _| H moB(c) Vrgar (A›`) nmoboam∞BS erQ H mo Kw_m`m OmE, Vmo nmaJ{_V ‡H me
+H s Vrd"Vm A{YH V_ H ~ hmoVr h° ?	2
+Define the term 'linearly polarised light'. When does the intensity of transmitted light become maximum when a third (any other) polaroid sheet is rotated between the two crossed polaroids ?
+7. Ï`mo_ VaßJ gßMaU go ä`m VmÀn`(c) h° ? Eogr Xmo gßMma Ï`dÒWmAm| H m CXmhaU Xr{OE Ohm± Ï`mo_ VaßJm| H m Cn`moJ hmoVm h° &	2
+What is space wave propagation ? Give two examples of communication systems which use space wave mode.
+
+8. EH MwÂ~H s` joÃ ?
+
+_| ?v	doJ go J{V H aVo h˛E Amdoe 'q' Ho EH H U na
+
+bJZo dmbo MwÂ~H s` ~b Ho	{bE Ï`ßOH {b{IE & Xem(c)BE {H `h ~b H moB(c)
+H m`(c) Zht H aVm &	2
+Write the expression for the magnetic force acting on a charged
+particle 'q' moving with velocity ?v in a magnetic field ? .
+Show that this force does no work.
+9. EH {d⁄wV≤ ~Î~ 220 V Amny{V(c) Ho {bE 100 W e{∫ XoZo Ho {bE ~Zm`m J`m h° & (a) Bg ~Î~ Ho	‡{VamoY, Am°a (b) ~Î~ go ‡dm{hV Ymam H m n[aH bZ
+H s{OE &	2
+An electric bulb is rated at 100 W for a 220 V supply. Calculate
+(a) the resistance of the bulb, and (b) the current flowing through the bulb.
+
+10. {H aòmoµ\ Ho {Z`_m| H m CÎboI H s{OE & BZ {Z`_m| H s nwpÓQ H° go hmoVr h° ?	2
+AWdm
+{H gr MmbH _| _w∫ BboäQ¥m∞Zm| Ho Andmh doJ Ho {bE {dlmß{V H mb Ho nXm| _| Ï`ßOH Ï`wÀnﬁ H s{OE &	2
+State Kirchhoff 's rules. How are these rules justified ?
+OR
+Derive the expression for drift velocity of free electrons in a conductor in terms of relaxation time.
+
+I S g
+SECTION C
+
+11. Xmo gßYm[aÃ nmÌd(c) (g_m›Va) Am°a loUrH" _ _| AbJ-AbJ gß`mo{OV {H E JE h¢ & BZ gßYm[aÃm| H s Ym[aVmAm|, C1 Am°a C2 H m AZwnmV 1 : 3 h° & BZ Xmo gß`moOZm| Ho {gam| Ho ~rM bJmE JE {d^dm›Vam| H m AZwnmV kmV H s{OE, Vm{H XmoZm| gß`moOZm| _| gß{MV D Om(c) H m _mZ g_mZ hmo &
+`{X XmoZm| gß`moOZm| na g_mZ {d^dm›Va bJm`m OmE, Vmo BZ_| gß{MV D Om(c) H m AZwnmV ä`m hmoJm ?	3
+Find the ratio of the potential difference that must be applied across the parallel and series combinations of two capacitors having capacitances C1 and C2 in the ratio 1 : 3, so that the energy stored in the two cases becomes the same.
+If the potential differences are made equal, calculate the ratio of energy stored in the two cases.
+
+12. {ZÂZ{b{IV H m Amd•{Œm n[aga Am°a ‡À`oH H m EH Cn`moJ {b{IE :	3
+(i) gy˙_VaßJ|
+(ii) AdaäV {H aU|
+(iii) Jm_m {H aU|
+
+
+AWdm
+‡X{e(c)V H s{OE {H EopÂn`a Ho n[anW {Z`_ H m g_rH aU ? ? . ?
+
+
+
+= ? I,
+
+{dÒWmnZ {d⁄wV≤ Ymam H s CnpÒW{V _| H° go Í nm›V[aV hmoVm h° &	3
+Write the frequency range and one use of each of the following :
+(i) Microwaves
+(ii) Infra-red rays
+(iii) Gamma rays
+
+OR
+Show	how	the	equation	for	Ampere's	circuital	law,	i.e.,
+
+? ?. ? = ?
+
+
+I is modified in the presence of displacement
+
+current.
+
+13. IJmobr` XˇaXe(c)H H s H m`(c)‡Umbr H mo gßjon _| ÒnÓQ H s{OE &
+gm_m›` g_m`moOZ _| {H gr XˇaXe(c)H	H s AmdY(c)Z j_Vm 20 h° & `{X Bg g_m`moOZ _| XˇaXe(c)H H s bÂ~mB(c) 105 cm hmo, Vmo XˇaXe(c)H Ho A{^—Ì`H Am°a Zo{ÃH m H s µ\ moH g Xˇar kmV H s{OE &	3
+Explain briefly the working of an astronomical telescope.
+The magnifying power of a telescope in its normal adjustment is 20. If the length of the telescope is 105 cm in this adjustment, find the focal lengths of the objective and eyepiece of the telescope.
+
+14. ‡H me-{d⁄wV≤ ‡^md Ho gß~ßY _| '{damoYr {d^d' nX H s n[a^mfm {b{IE &
+EH {XE JE ‡H me-gwJ"mhr n•ÓR H m H m`(c) \ bZ 2∑5 eV h° & O~ Bg n•ÓR na v Amd•{Œm H m ‡H me nãSVm h°, Vmo 4∑1 V Ho _ßXH {d^d H mo AZw‡`w∫ H aHo CÀg{O(c)V µ\ moQmo-BboäQ¥m∞Zm| H mo nyU(c)V: amoH {b`m OmVm h° & Bg ‡H me H s
+Amd•{Œm v Ho _mZ H m n[aH bZ H s{OE &	3
+Define the term 'stopping potential' in relation to photoelectric
+effect.
+The work function for a given photosensitive surface is equal to 2∑5 eV. When light of frequency v falls on this surface, the emitted photoelectrons are completely stopped by applying a retarded potential of 4∑1 V. Estimate the value of frequency v of light.
+15. Xmo bÂ~o, grYo g_m›Va MmbH m| go H" _e: I1 VWm I2 pÒWa YmamE± ‡dm{hV hmo ahr h¢ Omo EH -Xˇgao go d Xˇar na pÒWV h¢ & Ï`m"`m H s{OE {H EH MmbH €mam CÀnﬁ MwÂ~H s` joÃ Xˇgao MmbH na {H g ‡H ma H m`(c) H aVm h° & Bggo Xmo MmbH m| Ho ~rM bJZo dmbo ~b Ho {bE Ï`ßOH Ï`wÀnﬁ H s{OE & C"oI H s{OE
+{H Bg ~b H s {Xem H° go {ZYm(c)[aV hmoVr h° &	3
+Two long, straight parallel conductors carrying steady currents I1 and I2 are separated by a distance d. Explain how the magnetic field due to one conductor acts on the other. Hence, deduce the expression for the force acting between the two conductors. Also mention how the direction of the force is determined.
+
+16. gßjon _| Ï`m"`m H s{OE {H
+(a) {H gr p-n gß{Y Sm`moS _| amo{YH m {d^d H° go CÀnﬁ hmoVm h° &
+(b) {H gr {XÓQH mar Ho	{ZJ(c)V go ‡mﬂV A{Z`ß{ÃV Sr.gr. (d.c.) dmoÎQVm go pÒWa Sr.gr. dmoÎQVm ‡mﬂV H aZo Ho	{bE µOoZa Sm`moS H° go H m`(c) H aVm
+h° &	3
+Explain briefly how
+(a) a barrier potential is formed in a p-n junction diode.
+(b) a zener diode works to obtain a constant d.c. voltage from the unregulated d.c. output of a rectifier.
+17. (a)	gßMma Ï`dÒWm _| Xmo _yb {dYmE± H m°Z-gr h¢ ? BZHo ~rM _| ä`m ^oX h° ?
+(b)	gßMma Ï`dÒWmAm| _| ‡`w∫	nX '_m∞SÁwboeZ (modulation)' go ä`m A{^‡m` h°, Ï`m"`m H s{OE &	3
+(a) What are the two basic modes of communication ? What is the difference between them ?
+(b) Explain the term 'modulation' used in communication
+systems.
+18. ~moa Ho A{^J"hrVm| Ho Cn`moJ €mam ‡X{e(c)V H s{OE {H hmBS¥moOZ na_mUw _| ndt gß^d H jm _| n[aH" _U H aVo h˛E, BboäQ¥m∞Z Ho {bE (a) H jm H s {Ã¡`m, n2 Ho AZwH" _mZwnmVr hmoVr h°, Am°a (b) BboäQ¥m∞Z H s Hw b D Om(c), n2 Ho
+Ï`wÀH" _mZwnmVr hmoVr h° &	3
+Using Bohr's postulates show that for an electron revolving in the nth possible orbit in a hydrogen atom (a) the radius of the orbit is directly proportional to n2, and (b) the total energy of the electron is inversely proportional to n2.
+
+19. (a)	Zm{^H s` ~b H m dh H m°Z-gm A{^bj{UH	JwU, 20 ? A ? 170 Ho
+~rM Zm{^H m| Ho {dÒV•V n[aga _| ‡{V ›`ypäbAm∞Z ~ßYZ D Om(c) H s g{ﬁH Q pÒWaVm H s Ï`m"`m H aVm h° ? g_PmBE &
+(b)	EH ao{S`moEopäQd AmBgmoQmon H s AY(c)-Am`w 20 df(c) h° & BgH s g{H" `Vm
+H mo 3∑125% VH H _ hmoZo _| {H VZm g_` bJoJm ?	3
+(a) Which characteristic property of nuclear force explains the approximate constancy of binding energy per nucleon over a wide range of nuclei lying between 20 ? A ? 170 ? Explain.
+(b) A radioactive isotope has a half-life of 20 years. How long will it take for the activity to reduce to 3∑125% ?
+
+20. ~m`mo-gmdQ(c) {Z`_ {b{IE Am°a Bg {Z`_ H mo g{Xe Í n _| Ï`∫ H s{OE &
+{Ã¡`m R H s Xmo gd(c)g_ d•ŒmmH ma Hw  S{b`m± P Am°a Q {OZgo H" _e: 1 A Am°a
+     A YmamE± ‡dm{hV hmo ahr h¢, XY VWm YZ Vbm| _| EH -Xˇgao Ho	bÂ~dV≤ Am°a gßH| –r aIr h¢ & BZ Hw  S{b`m| Ho Ho ›– na ZoQ MwÂ~H s` joÃ H m n[a_mU
+Am°a {Xem kmV H s{OE &	3
+State Biot-Savart law and express this law in the vector form.
+Two identical circular coils, P and Q each of radius R, carrying currents 1 A and 3 A respectively are placed concentrically and perpendicular to each other lying in the XY and YZ planes. Find the magnitude and direction of the net magnetic field at the centre of the coils.
+21. (a)	`ßJ Ho {€{Par ‡`moJ Ho Ï`{VH aU n°QZ(c) Am°a EH b {Par go ‡mﬂV {ddV(c)Z n°QZ(c) Ho ~rM {d^oXZH mar Xmo bjU {b{IE &
+(b)	500 nm VaßJX°ø`(c) H m EH dUu ‡H me 0∑2 mm Mm°ãSmB(c) H s {H gr EH b
+{Par	na A{^bÂ~dV≤ AmnVZ H aHo {ddV(c)Z n°QZ(c) CÀnﬁ H aVm h° & nX}
+na ‡mﬂV Ho ›–r` C{ÉÓR H s H moUr` Mm°ãSmB(c) kmV H s{OE &	3
+
+(a) Write two features to distinguish between the interference pattern in Young's double slit experiment with the diffraction pattern obtained due to a single slit.
+(b) A monochromatic light of wavelength 500 nm is incident normally on a single slit of width 0∑2 mm to produce a diffraction pattern. Find the angular width of the central maximum obtained on the screen.
+
+22. n-p-n Q¥mß{µOÒQa H m gß{daMZ H° go hmoVm h° ? gßjon _| Ï`m"`m H s{OE &
+CE {d›`mg _| {H gr Q¥mß{µOÒQa Ho	{bE ‡`w∫	{ZÂZ{b{IV nXm| H s n[a^mfm Xr{OE :			3
+(a) {Zdoe ‡{VamoY, VWm (b) Ymam ‡dY(c)Z JwUmßH (?)
+Explain briefly, how an n-p-n transistor is fabricated. Define the terms (a) input resistance, and (b) current amplification factor (?) of a transistor used in its CE configuration.
+
+I S X
+SECTION D
+
+23. {d⁄mb` H s Nw≈r Ho	VwaßV ~mX, O°go hr drZm AnZr gho{b`m| Ho	gmW ~mha
+{ZH br, C›hm|Zo XoIm {H AMmZH ~mXbm| H s JO(c)Z Ho gmW {~Obr M_H Zo bJr & C›h| eaU Ho {bE H moB(c) Cn`w∫ ÒWmZ Zht {_b nm`m & Sm∞. d_m(c), Omo dht go AnZr H ma _| JwµOa aho Wo, Zo BZ ~Ém| H mo XoIm Am°a C›h| AnZr H ma _| ~°RZo H m ‡ÒVmd {H `m & `hr Zht C›hm|Zo BZ ~Ém| H mo BZHo Kam| Ho {ZH Q H s ~ÒVr _| NmoãSm & drZm Ho _mVm-{nVm, Omo drZm H m BßVµOma H a aho Wo, Zo `h XoIm Am°a C›hm|Zo Sm∞. d_m(c) H m Am^ma Ï`∫ {H `m &
+(a) Sm∞. d_m(c) Am°a drZm Ho _mVm-{nVm €mam {H Z _yÎ`m| H mo Xem(c)`m J`m ?
+(b) {deofH a V{ãSV≤ Am°a JO(c)Z Ho g_` H ma Ho ^rVa hmoZm gwa{jV ä`m| _mZm OmVm h° ?
+(c) 'namd°⁄wV gm_œ`(c)' nX H s n[a^mfm {b{IE & `h nX ä`m gy{MV H aVm h° ?	4
+
+Immediately after school hours, as Veena and her friends came out, they noticed that there was a sudden thunderstorm accompanied by lightning. They could not find any suitable place for shelter. Dr. Verma, who was passing by in his car, noticed these children and offered them to come in his car. He even took care to drop them to the locality where they were staying. Veena's parents who were waiting, saw this and expressed their gratitude to Dr. Verma.
+(a) What	values	did	Dr.	Verma	and	Veena's	parents
+display ?
+(b) Why is it considered safe to be inside a car especially during lightning and thunderstorm ?
+(c) Define the term 'dielectric strength'. What does this term signify ?
+I S `
+SECTION E
+24. (a)	n[adV(c)Zr` Amd•{Œm Ho {H gr E.gr. (a.c.) ÚmoV go gß`mo{OV (OwãSo) loUr
+LCR n[anW _| AZwZmX Ho {bE eV(c) Ï`wÀnﬁ H s{OE &
+(b) {ZÂZ{b{IV nXm| H s n[a^mfm Xr{OE :
+(i) Q-JwUmßH , VWm	(ii) dmQhrZ Ymam &	5
+AWdm
+(a) EH CÉm`r Q¥mßgµ\ m∞_(c)a Ho {g’m›V Am°a H m`(c) H m gßjon _| dU(c)Z H s{OE &
+(b) {H gr Q¥mßgµ\ m∞_(c)a _| D Om(c) ımg Ho H moB(c) Xmo ÚmoV {b{IE &
+(c) EH CÉm`r Q¥mßgµ\ m∞_(c)a {ZÂZ dmoÎQVm Ho {Zdoe H mo CÉ dmoÎQVm Ho {ZJ(c)V
+_| n[ad{V(c)V H a XoVm h° & ä`m Bggo D Om(c) gaßjU {Z`_ H m CÎbßKZ hmoVm
+h° ? AnZo CŒma H s nwpÓQ H s{OE &	5
+
+(a) Derive the condition for resonance in a series LCR circuit connected to an a.c. source of variable frequency.
+(b) Define the terms (i) Q-factor, and (ii) Wattless current.
+
+OR
+(a) Describe briefly, the working and principle of a step-up transformer.
+(b) Write any two sources of energy loss in a transformer.
+(c) A step-up transformer converts a low input voltage into a high output voltage. Does it violate the law of conservation of energy ? Justify your answer.
+
+25. (a)	Xmo EH dUu ‡H me-ÚmoVm| H mo H bm-gß~’ H ~ H hm OmVm h° ? `ßJ Ho
+{€{Par ‡`moJ _| XrﬂV Am°a AXrﬂV q\" Om| Ho {bE eV] {b{IE & Bggo q\" O H s Mm°ãSmB(c) Ho {bE Ï`ßOH ‡mﬂV H s{OE &
+(b) ‡X{e(c)V H s{OE {H XrﬂV q\" Om| H s Vrd"Vm 4a2 Am°a AXrﬂV q\" Om| H s Vrd"Vm ey›` hmoVr h° & (`hm± 'a' Ï`{VH aU H aZo dmbr VaßJm| H m Am`m_
+h° &)	5
+AWdm
+(a) Cg n[aKQZm H m Zm_ {b{IE Omo B›–YZwf ~ZZo Ho {bE CŒmaXm`r h° &
+{H g Xem _| `h XoIm Om gH Vm h° ?
+(b) EH dUu ‡H me H s EH {H aU EH g_~mh˛ {‡µ¡_ Ho EH \ bH na Amn{VV hmoVr h° & AmnVZ H moU H m _mZ, {‡µ¡_ Ho H moU Ho _mZ H m 3/4 h° & `{X ‡H me H s `h {H aU {‡µ¡_ go g_{_VV: hmoH a JwµOaVr h°, Vmo kmV H s{OE (i) ›`yZV_ {dMbZ H moU H m _mZ, Am°a (ii) {‡µ¡_ Ho nXmW(c)
+H m AndV(c)ZmßH &	5
+
+(a) When are two monochromatic sources of light said to be coherent ? Write the conditions for dark and bright fringes in Young's double slit experiment. Hence, obtain the expression for the fringe width.
+(b) Show that the intensity of the bright fringe is 4a2 and that of the dark fringe is zero. (Here 'a' represents the amplitude of the interfering wave.)
+OR
+(a) Name the phenomenon responsible for the appearance of a rainbow. Under what condition can this be observed ?
+(b) A ray of monochromatic light is incident on one face of an equilateral prism at an angle equal to 3/4th of the angle of the prism. If the ray passes symmetrically through the prism, find the (i) angle of minimum deviation, and
+(ii) refractive index of the material of the prism.
+26. (a) {H gr nXmW(c) H s {d⁄wV≤ ‡{VamoYH Vm H s n[a^mfm Xr{OE & {H gr YmVw H s ‡{VamoYH Vm Vmn Ho ~ãTZo Ho gmW ä`m| ~ãTVr h° O~{H AY(c)MmbH _| `h KQVr h° ?
+(b)  _rQa goVw H s ‡m`mo{JH Ï`dÒWm _| Xmo AkmV ‡{VamoY X VWm Y {Z{d(c)ÓQ
+{H E OmVo h¢ Vmo _rQa goVw Vma Ho YZmÀ_H {gao go 35 go_r Xˇar na ey›`
+{djon pÒW{V ‡mﬂV hmoVr h° & O~ X Ho	gmW loUrH" _ _| 15 ? H m ‡{VamoY gß`mo{OV H aVo h¢, Vmo ey›` {djon H s pÒW{V 15 go_r ÒWmZm›V[aV
+hmo OmVr h° & ‡{VamoYm| X VWm Y Ho _mZ kmV H s{OE &	5
+AWdm
+(a) EH gob Ho {d⁄wV≤-dmhH ~b (emf) Am°a Q{_(c)Zb dmoÎQVm Ho ~rM ^oX ÒnÓQ H s{OE & gob Ho {d⁄wV≤-dmhH ~b, Q{_(c)Zb dmoÎQVm Am°a Am›V[aH ‡{VamoY Ho ~rM Ï`ßOH {b{IE &
+(b) {d^d_mnr H m H m`(c)H mar {g’mßV {b{IE & {d^d ‡dUVm H s n[a^mfm Xr{OE Am°a BgH m Eg.AmB(c). (S.I.) _mÃH {b{IE &
+gßjon _| dU(c)Z H s{OE {H {d^d_mnr €mam Xmo gobm| Ho {d⁄wV≤-dmhH ~b
+(emf) H s VwbZm H° go H s OmVr h° ?	5
+
+(a) Define electrical resistivity of a given material. Why does resistivity of a metal increase with temperature whereas in the case of a semiconductor it decreases ?
+(b) In the set-up of a meter bridge, when two unknown resistances X and Y are inserted, the null point is obtained 35 cm from the positive end of the meter bridge wire. When a resistance of 15 ? is connected in series with X, the null point shifts by 15 cm. Determine the values of resistances X and Y.
+
+OR
+
+(a) Distinguish between emf and terminal voltage of a cell. Write the relation between the emf, terminal voltage and internal resistance of the cell.
+(b) State the principle of working of a potentiometer. Define potential gradient and write its SI unit.
+Describe briefly how the emfs of two cells is compared using a potentiometer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+55(B)	15	400
+
+
+
+
+
+

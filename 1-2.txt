@@ -1,0 +1,400 @@
+
+
+
+
+amob Zß.
+Roll No.
+
+H moS Zß.
+Code No.
+
+55/2
+
+
+
+
+
+
+* H• n`m Om±M H a b| {H Bg ‡ÌZ-nÃ _oß _w{–V n• 19 h¢ &
+* ‡ÌZ-nÃ _| Xm{hZo hmW H s Amoa {XE JE H moS ZÂ~a H mo NmÃ CŒma-nwpÒVH m Ho _wI-n• na
+{bI| &
+* H• n`m Om±M H a b| {H Bg ‡ÌZ-nÃ _| 26 ‡ÌZ h¢ &
+* H• n`m ‡ÌZ H m CŒma {bIZm ewÍ H aZo go nhbo, ‡ÌZ H m H" _mßH AdÌ` {bI| &
+* Bg ‡ÌZ-nÃ H mo nãTZo Ho {bE 15 {_ZQ H m g_` {X`m J`m h° & ‡ÌZ-nÃ H m {dVaU nydm(c)ï
+_| 10.15 ~Oo {H `m OmEJm & 10.15 ~Oo go 10.30 ~Oo VH NmÃ Ho db ‡ÌZ-nÃ H mo nãT|Jo Am°a Bg Ad{Y Ho Xm°amZ do CŒma-nwpÒVH m na H moB(c) CŒma Zht {bI|Jo &
+* Please check that this question paper contains 19 printed pages.
+* Code number given on the right hand side of the question paper should be written on the title page of the answer-book by the candidate.
+* Please check that this question paper contains 26 questions.
+* Please write down the Serial Number of the question before attempting it.
+* 15 minute time has been allotted to read this question paper. The question paper will be distributed at 10.15 a.m. From 10.15 a.m. to 10.30 a.m., the students will read the question paper only and will not write any answer on the answer-book during this period.
+
+^m°{VH {dkmZ (g°’mp›VH )
+PHYSICS (Theory)
+{ZYm(c)[aV g_` : 3 K Qo	A{YH V_ AßH : 70
+Time allowed : 3 hours	Maximum Marks : 70
+
+gm_m›` {ZX}e :
+(i) g^r ‡ÌZ A{Zdm`(c) h¢ & Bg ‡ÌZ-nÃ _| Hw b 26 ‡ÌZ h¢ &
+(ii) Bg ‡ÌZ-nÃ Ho nm±M ^mJ h¢ : I S A, I S ~, I S g, I S X Am°a I S ` &
+(iii) I S A _| nm±M ‡ÌZ h¢, ‡À`oH H m EH AßH h° & I S ~ _| nm±M ‡ÌZ h¢, ‡À`oH Ho Xmo AßH h¢ & I S g _| ~mah ‡ÌZ h¢, ‡À`oH Ho VrZ AßH h¢ & I S X _| Mma AßH H m EH _yÎ`mYm[aV ‡ÌZ h° Am°a I S ` _| VrZ ‡ÌZ h¢, ‡À`oH Ho nm±M AßH h¢ &
+(iv) ‡ÌZ-nÃ _| g_J" na H moB(c) {dH În Zht h° & VWm{n, Xmo AßH m| dmbo EH ‡ÌZ _|, VrZ AßH m| dmbo EH ‡ÌZ _| Am°a nm±M AßH m| dmbo VrZm| ‡ÌZm| _| Am›V[aH M`Z ‡XmZ {H `m J`m h° & Eogo ‡ÌZm| _| AmnH mo {XE JE M`Z _| go Ho db EH ‡ÌZ hr H aZm h° &
+(v) Ohm± AmdÌ`H hmo, Amn {ZÂZ{b{IV ^m°{VH {Z`VmßH m| Ho _mZm| H m Cn`moJ H a gH Vo h¢ :
+
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 ? 10-12 C2 N-1 m-2
+
+1
+
+
+4 ??0
+
+
+= 9 ? 109 N m2 C-2
+
+BboäQ¥m∞Z H m –Ï`_mZ (me) = 9.1 ? 10-31 kg ›`yQ¥m∞Z H m –Ï`_mZ = 1.675 ? 10-27 kg ‡moQm∞Z H m –Ï`_mZ = 1.673 ? 10-27 kg
+AmdmoJm–mo gß"`m = 6.023 ? 1023 ‡{V J"m_ _mob
+~moÎQ≤µO_mZ {Z`VmßH = 1.38 ? 10-23 JK-1
+
+General Instructions :
+(i) All questions are compulsory. There are 26 questions in all.
+(ii) This question paper has five sections : Section A, Section B, Section C, Section D and Section E.
+(iii) Section A contains five questions of one mark each, Section B contains five questions of two marks each, Section C contains twelve questions of three marks each, Section D contains one value based question of four marks and Section E contains three questions of five marks each.
+(iv) There is no overall choice. However, an internal choice has been provided in one question of two marks, one question of three marks and all the three questions of five marks weightage. You have to attempt only one of the choices in such questions.
+(v) You may use the following values of physical constants wherever necessary :
+
+c = 3 ? 108 m/s
+h = 6.63 ? 10-34 Js
+e = 1.6 ? 10-19 C
+?0 = 4? ? 10-7 T m A-1
+?0 = 8.854 ? 10-12 C2 N-1 m-2
+
+1
+
+
+4 ??0
+
+
+= 9 ? 109 N m2 C-2
+
+Mass of electron (me) = 9.1 ? 10-31 kg Mass of neutron = 1.675 ? 10-27 kg Mass of proton = 1.673 ? 10-27 kg
+Avogadro's number = 6.023 ? 1023 per gram mole Boltzmann constant = 1.38 ? 10-23 JK-1
+
+I S A
+SECTION A
+
+1. g_mZ Amd•{Œm Am°a {d{^ﬁ Vrd"VmAm| Ho Xmo Amn{VV {d{H aUm| Ho {bE AZw‡`w∫ dmoÎQVm Ho gmW ‡H me-{d⁄wV≤ Ymam Ho	{dMaU H mo Xem(c)Zo dmbo J"mµ\	It{ME & CÉVa Vrd"Vm Ho
+
+{d{H aU Ho {bE J"mµ\ H mo Aß{H V H s{OE &	1
+Draw graphs showing variation of photoelectric current with applied voltage for two incident radiations of equal frequency and different intensities. Mark the graph for the radiation of higher intensity.
+2. g_m›Va nWm| na J{V_mZ EH ‡moQm∞Z Am°a EH BboäQ¥m∞Z {H gr EH g_mZ MwÂ~H s` joÃ, Omo BZHo J_ZnWm| Ho bÂ~dV≤ H m`(c)aV h°, _| ‡doe H aVo h¢ & BZ_| go H m°Z-gm CÉ Amd•{Œm Ho
+d•Œmr` nW _| J{V H aoJm ?	1
+A proton and an electron travelling along parallel paths enter a region of uniform magnetic field, acting perpendicular to their paths. Which of them will move in a circular path with higher frequency ?
+3. {H gr VŒd Ho Mma Zm{^H gßb{`V hmoH a H moB(c) ^mar Zm{^H ~ZmVo h¢ {Og_| D Om(c) H m C›_moM hmoVm h° & OZH AWdm gßV{V Zm{^H m| _| go {H gH s ~ßYZ D Om(c) ‡{V ›`ypäbAm∞Z A{YH hmoJr ?	1
+Four nuclei of an element undergo fusion to form a heavier nucleus, with release of energy. Which of the two ? the parent or the daughter nucleus ? would have higher binding energy per nucleon ?
+4. bKw VaßJ ‡gmaU godmAm| €mam ‡MmaU (gßMaU) H s H m°Z-gr {dYm ‡`w∫ H s OmVr h° ?	1
+Which mode of propagation is used by short wave broadcast services ?
+5. (a) Ob emoYZ, VWm (b) ZoÃ eÎ`-{M{H Àgm _| Cn`moJ hmoZo dmbo {d⁄wV≤-MwÂ~H s` {d{H aUm|
+Ho Zm_ {b{IE &	1
+Name the electromagnetic radiations used for (a) water purification, and
+(b) eye surgery.
+I S ~
+SECTION B
+6. (a)	Ada∫ VaßJm| H mo ‡m`: D Ó_m VaßJ| ä`m| H hm OmVm h° ? ÒnÓQ H s{OE &
+(b) ''{d⁄wV≤-MwÂ~H s` VaßJ| gßdoJ dhZ H aVr h¢'' Bg H WZ go Amn ä`m g_PVo h¢ ?	2
+(a) Why are infra-red waves often called heat waves ? Explain.
+(b) What do you understand by the statement, ''Electromagnetic waves transport momentum'' ?
+7. Xmo {d⁄wV≤ ~Î~m| P Am°a Q Ho ‡{VamoYm| H m AZwnmV 1 : 2 h° & `o loUrH" _ _| {H gr ~°Qar Ho
+{gam| go gß`mo{OV h¢ & BZ ~Î~m| _| e{∫ j` H m AZwnmV kmV H s{OE &	2
+Two electric bulbs P and Q have their resistances in the ratio of 1 : 2. They are connected in series across a battery. Find the ratio of the power dissipation in these bulbs.
+8. `{X 412∑5 nm VaßJX°ø`(c) H m ‡H me ZrMo {XE JE YmVwAm| na Amn{VV hmoVm h°, Vmo H m°Z-gr
+YmVw ‡H me-{d⁄wV≤ CÀgO(c)Z Xem(c)EJr Am°a ä`m| ?	2
+
+
+YmVwH m`(c)-\ bZ (eV)Na1∑92K2∑15Ca3∑20Mo4∑17If light of wavelength 412∑5 nm is incident on each of the metals given below, which ones will show photoelectric emission and why ?
+
+MetalWork Function (eV)Na1∑92K2∑15Ca3∑20Mo4∑179. 15 V {eIa dmoÎQVm H s {H gr dmhH VaßJ H m Cn`moJ {H gr gßXoe {g1/2Zb Ho ‡ofU Ho {bE
+{H `m J`m h° & 60% _m∞SwbZ gyMH mßH ‡mﬂV H aZo Ho {bE _m∞SwbH {g1/2Zb H s {eIa dmoÎQVm kmV H s{OE &	2
+A carrier wave of peak voltage 15 V is used to transmit a message signal. Find the peak voltage of the modulating signal in order to have a modulation index of 60%.
+
+10. AmaoI _| Xem(c)E AZwgma CnojUr` Am›V[aH ‡{VamoY H m H moB(c) EH 10 V H m gob 38 ?
+Am›V[aH ‡{VamoY Am°a 200 V {d⁄wV≤-dmhH ~b (emf) H s {H gr ~°Qar Ho {gam| go nmÌd(c) _| gß`mo{OV h° & n[anW _| Ymam H m _mZ kmV H s{OE &	2
+
+
+
+AWdm
+{H gr gob Ho {d⁄wV≤-dmhH ~b (emf) {ZYm(c)aU Ho {bE nmoQop›e`mo_rQa Ï`dÒWm _| Iwbo n[anW _| gob H m gßVwbZ {~›X˛ 350 cm na h° & O~ gob Ho ~m¯ n[anW _| 9 ? H m EH ‡{VamoY ‡`w∫ {H `m OmVm h°, Vmo gßVwbZ {~›X˛ 300 cm na ÒWmZm›V[aV hmo OmVm h° & gob
+H m Am›V[aH ‡{VamoY kmV H s{OE &	2
+A 10 V cell of negligible internal resistance is connected in parallel across a battery of emf 200 V and internal resistance 38 ? as shown in the figure. Find the value of current in the circuit.
+
+
+
+OR
+
+In a potentiometer arrangement for determining the emf of a cell, the balance point of the cell in open circuit is 350 cm. When a resistance of 9 ? is used in the external circuit of the cell, the balance point shifts to 300 cm. Determine the internal resistance of the cell.
+
+I S g
+SECTION C
+11. (a)	bmoho Ho EH db` {OgH s Amno{jH MwÂ~H erbVm ?r h°, na n bnoQ ‡{V _rQa H s {d⁄wV≤-amoYr Vm±~o Ho Vma H s bnoQZ h° & O~ bnoQm| _| I Ymam ‡dm{hV hmoVr h°,
+Vmo db` _| MwÂ~H s` joÃ Ho {bE Ï`ßOH kmV H s{OE &
+(b) {H gr MwÂ~H s` nXmW(c) H s MwÂ~H s` ‡d•{Œm 0∑9853 h° & MwÂ~H s` nXmW(c) H m ‡H ma nhMm{ZE & {H gr EH g_mZ MwÂ~H s` joÃ _| Bg nXmW(c) Ho QwH ãSo H mo aIZo na
+joÃ-n°QZ(c) _| hmoZo dmbo Í nm›VaU H mo Amao{IV H s{OE &	3
+(a) An iron ring of relative permeability ?r has windings of insulated copper wire of n turns per metre. When the current in the windings is I, find the expression for the magnetic field in the ring.
+(b) The susceptibility of a magnetic material is 0∑9853. Identify the type of magnetic material. Draw the modification of the field pattern on keeping a piece of this material in a uniform magnetic field.
+12. 6 J/T MwÂ~H s` AmKyU(c) H m H moB(c) NãS MwÂ~H 0∑44 T Ho {H gr EH g_mZ ~m¯ MwÂ~H s`
+
+joÃ go 60? na	.
+
+h° & n[aH {bV H s{OE (a) MwÂ~H	Ho	MwÂ~H s` AmKyU(c) H mo
+.
+
+(i) MwÂ~H s` joÃ Ho A{^bÂ~dV≤, (ii) MwÂ~H s` joÃ Ho {dnarV ga{IVo	H aZo Ho {bE,
+MwÂ~H	H mo Kw_mZo _| {H `m J`m H m`(c), VWm (b) ‡H aU (ii) _| Aß{V_ {XJ≤{d›`mg (A{^{d›`mg) _| MwÂ~H na ~b-AmKyU(c) &	3
+A bar magnet of magnetic moment 6 J/T is aligned at 60? with a uniform external magnetic field of 0∑44 T. Calculate (a) the work done in turning the magnet to align its magnetic moment (i) normal to the magnetic field,
+(ii) opposite to the magnetic field, and (b) the torque on the magnet in the final orientation in case (ii).
+13. (a)	{H gr YmpÀdH Vma H s 'MmbH Vm' nX H s n[a^mfm Xr{OE & BgH m SI _mÃH
+{b{IE &
+(b)	{H gr MmbH _| _w∫ BboäQ¥m∞Zm| H s A{^H ÎnZm H m Cn`moJ H aHo gß"`m KZÀd Am°a {dlmß{V H mb Ho nXm| _o| Vma H s MmbH Vm Ho {bE Ï`ßOH Ï`wÀnﬁ H s{OE &
+AV: Ymam KZÀd Am°a AZw‡`w∫ {d⁄wV≤-joÃ E Ho ~rM gß~ßY ‡mﬂV H s{OE &	3
+(a) Define the term 'conductivity' of a metallic wire. Write its SI unit.
+(b) Using the concept of free electrons in a conductor, derive the expression for the conductivity of a wire in terms of number density and relaxation time. Hence obtain the relation between current density and the applied electric field E.
+
+14. Mma {~›X˛ Amdoe Q, q, Q Am°a q ^wOm 'a' Ho {H gr dJ(c) Ho H moZm| na AmaoI _| Xem(c)E AZwgma pÒWV h¢ &
+
+
+
+
+kmV H s{OE
+(a) Amdoe Q na n[aUm_r {d⁄wV≤ ~b, VWm
+(b) Bg {ZH m` H s pÒW{VO D Om(c) &	3
+AWdm
+(a) VrZ {~›X˛ Amdoe q, - 4q Am°a 2q ^wOm 'l' Ho g_~mh˛ {Ã^wO ABC Ho erfm] na AmaoI _| Xem(c)E AZwgma pÒWV h¢ & Amdoe q na H m`(c)aV n[aUm_r {d⁄wV≤ ~b Ho n[a_mU Ho {bE Ï`ßOH ‡mﬂV H s{OE &
+
+
+(b) Amdoem| H mo AZ›V Xˇar VH n•WH≤ H aZo Ho {bE {H E OmZo dmbo H m`(c) H s _mÃm kmV
+H s{OE &	3
+
+Four point charges Q, q, Q and q are placed at the corners of a square of
+side 'a' as shown in the figure.
+
+
+Find the
+(a) resultant electric force on a charge Q, and
+(b) potential energy of this system.
+
+
+OR
+
+(a) Three point charges q, - 4q and 2q are placed at the vertices of an equilateral triangle ABC of side 'l' as shown in the figure. Obtain the expression for the magnitude of the resultant electric force acting on the charge q.
+
+
+
+(b) Find out the amount of the work done to separate the charges at infinite distance.
+
+15. AndV(c)ZmßH 1∑5 Ho H m±M go ~Zm dH" Vm {Ã¡`m R H m H moB(c) g_{_V C^`moŒmb b|g {MÃmZwgma
+{H gr g_Vb Xn(c)U Ho erf(c) na pÒWV –d H s gVh na aIm h° & H moB(c) ‡H m{eH gwB(c) AnZr ZmoH H mo Bg b|g Ho _w"` Aj na aIVo h˛E, Aj na AnZo dmÒV{dH , CÎQo ‡{V{~Â~ Ho gßnmVr hmoZo VH J_Z H aVr h° & b|g go gwB(c) H s _m{nV Xˇar x h° & –d H s gVh H mo hQmZo Am°a ‡`moJ H mo XmohamZo na `h Xˇar y nmB(c) OmVr h° & x Am°a y Ho nXm| _| –d Ho AndV(c)ZmßH
+Ho {bE Ï`ßOH ‡mﬂV H s{OE &	3
+
+A symmetric biconvex lens of radius of curvature R and made of glass of refractive index 1∑5, is placed on a layer of liquid placed on top of a plane mirror as shown in the figure. An optical needle with its tip on the principal axis of the lens is moved along the axis until its real, inverted image coincides with the needle itself. The distance of the needle from the lens is measured to be x. On removing the liquid layer and repeating the experiment, the distance is found to be y. Obtain the expression for the refractive index of the liquid in terms of x and y.
+
+
+16. (a)	C{MV AmaoI H m Cn`moJ H aHo `h Xem(c)BE {H {H gr nmaXeu H m±M Ho n•ÓR go namdV(c)Z €mam AY"w{dV ‡H me H mo {H g ‡H ma a°{IH V: Y"w{dV {H `m Om gH Vm h° &
+
+
+
+(b)
+
+4 AndV(c)ZmßH Ho Ob _| pÒWV
+
+3 AndV(c)ZmßH Ho H m±M Ho {H gr g_~mh˛ {‡µ¡_ Ho
+
+\ bH	AB na H moB(c) ‡H me {H aU {MÃmZwgma A{^bÂ~dV≤ AmnVZ H aVr h° &
+\ bH AC go QH amZo na ä`m `h {H aU nyU(c) Am›V[aH namd{V(c)V hmoJr ? AnZo CŒma
+H s nwpÓQ H s{OE &	3
+
+
+(a) Show using a proper diagram how unpolarised light can be linearly polarised by reflection from a transparent glass surface.
+
+(b) The figure shows a ray of light falling normally on the face AB of
+
+an equilateral glass prism having refractive index
+
+3 , placed in
+2
+
+water of refractive index
+
+4 . Will this ray suffer total internal 3
+
+reflection on striking the face AC ? Justify your answer.
+
+
+
+
+
+17. (a) hmBS¥moOZ na_mUw _| ÒWm`r H jm| H s n[a^mfm Ho {bE ~moa Ho A{^J•hrV H m C"oI H s{OE & Xo ~"m∞1/2br H s n[aH ÎnZm {H g ‡H ma BZ H jm| Ho ÒWm{`Àd H s Ï`m"`m H aVr h° ?
+(b) AmaÂ^ _| {ZÂZV_ AdÒWm _| H moB(c) hmBS¥moOZ na_mUw {H gr µ\ moQm∞Z H mo Ademo{fV H aVm h°, Omo Cgo n = 4 ÒVa VH CŒmo{OV H a XoVm h° & µ\ moQm∞Z H s Amd•{Œm H m
+AZw_mZ bJmBE &	3
+(a) State Bohr's postulate to define stable orbits in hydrogen atom. How does de Broglie's hypothesis explain the stability of these orbits ?
+(b) A hydrogen atom initially in the ground state absorbs a photon which excites it to the n = 4 level. Estimate the frequency of the photon.
+18. (a) `ßJ Ho ‡`moJ _| Ï`{VH aU H aVr h˛B(c) Xmo gd(c)g_ {P[a`m| _| go {H gr EH H mo H m±M go TH {X`m OmE, Vm{H Bggo JwµOaZo dmbo ‡H me H s Vrd"Vm KQ H a 50% ah OmE, Vmo Bg Ï`{VH aU n°QZ(c) _| q\" Om| H s A{YH V_ Am°a ›`yZV_ Vrd"VmAm| H m AZwnmV kmV H s{OE &
+(b)  `{X EH dUu ‡H me Ho ÒWmZ na ÌdoV ‡H me H m Cn`moJ {H `m OmE, Vmo Amn {H g
+‡H ma H s q\" Om| Ho ‡ojU H s Anojm H aVo h¢ ?	3
+(a) If one of two identical slits producing interference in Young's experiment is covered with glass, so that the light intensity passing through it is reduced to 50%, find the ratio of the maximum and minimum intensity of the fringe in the interference pattern.
+(b) What kind of fringes do you expect to observe if white light is used instead of monochromatic light ?
+
+19. CE A{^{d›`mg _| {H gr n-p-n Q¥mß{µOÒQa Ho	‡Í nr {Zdoe Am°a {ZJ(c)V A{^bj{UH It{ME & `h Xem(c)BE {H BZ A{^bj{UH m| H m Cn`moJ (a) {Zdoe ‡{VamoY (ri), VWm
+(b) Ymam ‡dY(c)Z JwUmßH (?) H mo {ZYm(c)[aV H aZo _| {H g ‡H ma {H `m Om gH Vm h° &	3
+Draw the typical input and output characteristics of an n-p-n transistor in CE configuration. Show how these characteristics can be used to determine (a) the input resistance (ri), and (b) current amplification factor (?).
+20. (a)  bÂ~r Xˇar Ho ‡ofUm| Ho {bE gßXoe {g1/2Zbm| Ho _m∞SwbZ H s AmdÌ`H Vm Ho VrZ H maU ~VmBE &
+(b)  J"mµ\ €mam H moB(c) lÏ` {g1/2Zb (‹d{Z gßHo V), H moB(c) dmhH VaßJ Am°a H moB(c) Am`m_
+_m∞Sw{bV VaßJ Xem(c)BE &	3
+(a) Give three reasons why modulation of a message signal is necessary for long distance transmission.
+(b) Show graphically an audio signal, a carrier wave and an amplitude modulated wave.
+21. (a) ~ßYZ D Om(c) ‡{V ›`ypäbAm∞Z (BE/A) Am°a –Ï`_mZ gß"`m A Ho ~rM J"mµ\ H m Cn`moJ H aVo h˛E Zm{^H s` {dI SZ Am°a Zm{^H s` gßb`Z H s ‡{H" `mAm| H s Ï`m"`m H s{OE &
+(b)   {H gr ao{S`moEopäQd g_ÒWm{ZH (ao{S`moEopäQd AmBgmoQmon) H s AY(c)-Am`w 10 df(c)
+h° & BgH s g{H" `Vm 3∑125% VH KQZo _| {H VZm g_` bJoJm ?	3
+(a) Explain the processes of nuclear fission and nuclear fusion by using the plot of binding energy per nucleon (BE/A) versus the mass number A.
+(b) A radioactive isotope has a half-life of 10 years. How long will it take for the activity to reduce to 3∑125% ?
+22. (a) H moB(c) NmÃm Xmo p-n gß{Y Sm`moSm| H m Cn`moJ H aHo ‡À`mdVu Ymam H mo {XÓQ Ymam _| n[ad{V(c)V H aZm MmhVr h° & CgHo €mam Cn`moJ {H E OmZo dmbo n[anW H m Zm_mß{H V n[anW AmaoI It{ME Am°a BgH s {H" `m{d{Y H s Ï`m"`m H s{OE &
+(b)  NAND JoQ Ho {bE gÀ`_mZ gmaUr Am°a n[anW ‡VrH ~VmBE &	3
+(a) A student wants to use two p-n junction diodes to convert alternating current into direct current. Draw the labelled circuit diagram she would use and explain how it works.
+(b) Give the truth table and circuit symbol for NAND gate.
+
+I S X
+SECTION D
+23. JrVm Ho {d⁄mb` Ho {ejH {d⁄m{W(c)`m| H mo e°{jH ^"_U Ho {bE eha go bJ^J 200 km H s Xˇar na pÒWV e{∫ gß`ßÃ na bo JE & {ejH _hmoX` Zo ~Vm`m {H ‡À`mdVu Ymam (ac) Ho Í n _| {d⁄wV≤ D Om(c) H m ‡ofU BVZr bÂ~r Xˇ[a`m| VH eham| _| {H `m OmVm h° & ‡À`mdVu Ymam H mo CÉ dmoÎQVm VH CRm`m OmVm h° VWm eham| _| J"mhr ÒWmZm| na `w{∫ `m| H m ‡MmbZ H aZo Ho {bE dmoÎQVm H mo KQm`m OmVm h° & BgHo n[aUm_ÒdÍ n D Om(c) H s ~h˛V H _ hm{Z hmoVr h° & JrVm Zo {ejH _hmoX` H s ~mV H mo ‹`mZnyd(c)H gwZm Am°a ‡À`mdVu Ymam H mo H _ AWdm A{YH dmoÎQVm _| H aZo Ho {df` _| CZgo ‡ÌZ nyNo &
+(a) ‡À`mdVu dmoÎQVm H mo CÉ AWdm {ZÂZ _mZ VH n[ad{V(c)V H aZo H s `w{∫ H m Zm_
+{b{IE & Bg `w{∫ _| e{∫ j` Ho EH H maU H m C"oI H s{OE &
+(b) {H gr CXmhaU H s ghm`Vm go Ï`m"`m H s{OE {H {XÓQ Ymam H s Anojm ‡À`mdVu Ymam Ho Í n _| bÂ~r Xˇ[a`m| VH D Om(c) Ho ‡ofU _| e{∫ H s hm{Z {H g ‡H ma KQ OmVr h° &
+(c) JrVm Am°a {ejH _hmoX` ‡À`oH €mam ‡X{e(c)V Xmo _yÎ`m| H m C"oI H s{OE &	4
+
+The teachers of Geeta's school took the students on a study trip to a power generating station, located nearly 200 km away from the city. The teacher explained that electrical energy is transmitted over such a long distance to their city, in the form of alternating current (ac) raised to a high voltage. At the receiving end in the city, the voltage is reduced to operate the devices. As a result, the power loss is reduced. Geeta listened to the teacher and asked questions about how the ac is converted to a higher or lower voltage.
+(a) Name the device used to change the alternating voltage to a higher or lower value. State one cause for power dissipation in this device.
+(b) Explain with an example, how power loss is reduced if the energy is transmitted over long distances as an alternating current rather than a direct current.
+(c) Write two values each shown by the teachers and Geeta.
+
+I S `
+SECTION E
+
+24. (a)	{H gr AdVb Xn(c)U €mam {H gr {~Â~ H m dmÒV{dH , CÎQm VWm {dd{Y(c)V ‡{V{~Â~
+~ZZm Xem(c)Zo Ho {bE {H aU AmaoI It{ME &
+
+(b) Xn(c)U gyÃ ‡mﬂV H s{OE Am°a a°{IH AmdY(c)Z Ho {bE Ï`ßOH {b{IE &
+(c) AndVu XˇaXe(c)H H s VwbZm _| namdVu XˇaXe(c)H Ho Xmo bm^m| H s Ï`m"`m H s{OE &	5
+AWdm
+(a) VaßJmJ" H s n[a^mfm Xr{OE & hmBJo›g Ho {g’m›V H m Cn`moJ H aHo g_Vb n•ÓR na namdV(c)Z Ho {Z`_m| H m gÀ`mnZ H s{OE &
+(b) EH b {Par {ddV(c)Z ‡`moJ _| {Par H s Mm°ãS mB(c) CgH s _yb Mm°ãSmB(c) H s X˛JwZr H s OmVr h° & Ho ›–r` {ddV(c)Z ~° S Ho gmBµO Am°a Vrd"Vm na BgH m ä`m ‡^md hmoJm ? Ï`m"`m H s{OE &
+(c) O~ {H gr XˇaÒW ÚmoV go AmVo h˛E ‡H me Ho nW _| H moB(c) Z›hr (bKw) d•ŒmmH ma ~mYm aI Xr OmVr h°, Vmo Cg ~mYm Ho Ho ›– na H moB(c) M_H Xma {MŒmr —pÓQJmoMa hmoVr h° &
+Ï`m"`m H s{OE, Eogm ä`m| h° &	5
+(a) Draw a ray diagram to show image formation when the concave mirror produces a real, inverted and magnified image of the object.
+(b) Obtain the mirror formula and write the expression for the linear magnification.
+(c) Explain two advantages of a reflecting telescope over a refracting telescope.
+
+(a) Define a wavefront. Using Huygens' principle, verify the laws of
+reflection at a plane surface.
+
+(b) In a single slit diffraction experiment, the width of the slit is made double the original width. How does this affect the size and intensity of the central diffraction band ? Explain.
+
+(c) When a tiny circular obstacle is placed in the path of light from a distant source, a bright spot is seen at the centre of the obstacle. Explain why.
+
+
+
+
+25. (a)	{d⁄wV≤ ‚bäg H s n[a^mfm Xr{OE & ä`m `h g{Xe am{e h° AWdm A{Xe ?
+AmaoI _| Xem(c)E AZwgma H moB(c) {~›X˛ Amdoe q ^wOm d Ho {H gr dJ(c) Ho Ho ›– Ho RrH D na Xˇar d/2 na pÒWV h° & JmCg Ho {Z`_ H m Cn`moJ H aHo Bg dJ(c) go JwµOaZo dmbo {d⁄wV≤ ‚bäg Ho {bE Ï`ßOH ‡mﬂV H s{OE &
+
+
+
+
+(b)	A~ `{X Bg {~›X˛ Amdoe H mo Bg dJ(c) Ho Ho ›– go 'd' Xˇar na bo OmE± VWm dJ(c) H s
+^wOm H mo X˛JwZm H a X|, Vmo Ï`m"`m H s{OE {H {d⁄wV≤ ‚bäg {H g ‡H ma ‡^m{dV
+hmoJm &	5
+AWdm
+
+(a) JmCg Ho {Z`_ H m Cn`moJ H aHo Amdoe KZÀd ? C/m H s {H gr grYr EH g_mZ
+?
+Amdo{eV AZ›V aoIm Ho H maU {d⁄wV≤-joÃ ( E ) Ho {bE Ï`ßOH Ï`wÀnﬁ H s{OE &
+
+(b) Amdoe aoIm go bÂ~dV≤ Xˇar r Ho gmW E Ho {dMaU H mo Xem(c)Zo Ho {bE J"mµ\ It{ME &
+
+(c) bÂ~dV≤ Xˇar r1 go r2 VH (r2 > r1) Amdoe q H mo bo OmZo _| {H `m J`m H m`(c) kmV
+H s{OE &	5
+
+
+
+(a) Define electric flux. Is it a scalar or a vector quantity ?
+A point charge q is at a distance of d/2 directly above the centre of a square of side d, as shown in the figure. Use Gauss' law to obtain the expression for the electric flux through the square.
+
+
+
+(b) If the point charge is now moved to a distance 'd' from the centre of the square and the side of the square is doubled, explain how the electric flux will be affected.
+
+?
+(a) Use Gauss' law to derive the expression for the electric field ( E )
+due to a straight uniformly charged infinite line of charge density
+? C/m.
+(b) Draw a graph to show the variation of E with perpendicular distance r from the line of charge.
+(c) Find the work done in bringing a charge q from perpendicular distance r1 to r2 (r2 > r1).
+26. (a)	{H gr ‡À`mdVu Ymam (ac) O{ZÃ H m {g’m›V {b{IE Am°a Zm_mß{H V AmaoI H s
+ghm`Vm go BgH s {H" ?`m{d{Y H s Ï`m"`m H s{OE & KyU(c)Z Aj Ho bÂ~dV≤ {X{eH
+{H gr MwÂ~H s` joÃ B _| {Z`V H moUr` Mmb '?' go KyU(c)Z H aZo dmbr N bnoQm|
+Am°a AZw‡ÒW-H mQ joÃ\ b A H s {H gr Hw  Sbr _| ‡o[aV {d⁄wV≤-dmhH	~b
+(emf) Ho {bE Ï`ßOH ‡mﬂV H s{OE &
+
+(b) H moB(c) dm`w`mZ 900 km/hour Ho doJ go j°{VOV: npÌM_ go nyd(c) H s Amoa CãS ahm h° & 20 m {dÒVma H s BgH s nßIw{ãS`m| Ho {gam| Ho ~rM {dH {gV {d^dm›Va n[aH {bV H s{OE & n•œdr Ho MwÂ~H s` joÃ H m j°{VO KQH 5 ? 10- 4 T Am°a Z{V
+H moU 30? h° &	5
+AWdm
+H moB(c) `w{∫ X {H gr ‡À`mdVu Ymam (ac) ÚmoV V = V0 sin ?t dmoÎQVm go gß`mo{OV h° & X
+
+go ‡dm{hV Ymam I = I0 sin??t ? ? ?
+
+h° &
+
+?	?
+?	?
+(a) `w{∫ X H mo nhMm{ZE Am°a BgHo ‡{VKmV Ho {bE Ï`ßOH {b{IE &
+(b) X Ho {bE ‡À`mdVu Ymam (ac) Ho EH MH" _| g_` Ho gmW dmoÎQVm Am°a Ymam Ho
+{dMaU H mo Xem(c)Zo Ho {bE J"mµ\ It{ME &
+(c) ‡À`mdVu Ymam (ac) H s Amd•{Œm Ho gmW `w{∫ X Ho ‡{VKmV _| {H g ‡H ma {dMaU hmoVm h° ? J"mµ\ €mam Bg {dMaU H mo Xem(c)BE &
+(d) `w{∫ X Ho {bE \o µOa AmaoI It{ME &	5
+
+(a) State the principle of an ac generator and explain its working with the help of a labelled diagram. Obtain the expression for the emf
+induced in a coil having N turns each of cross-sectional area A,
+?
+rotating with a constant angular speed '?' in a magnetic field B ,
+directed perpendicular to the axis of rotation.
+
+(b) An aeroplane is flying horizontally from west to east with a velocity of 900 km/hour. Calculate the potential difference developed between the ends of its wings having a span of 20 m. The horizontal component of the  Earth's magnetic field is
+5 ? 10- 4 T and the angle of dip is 30?.
+
+OR
+
+A device X is connected across an ac source of voltage V = V0 sin ?t. The
+
+current through X is given as I = I
+
+sin??t ? ? ? .
+
+0	?	?
+?	?
+
+(a) Identify the device X and write the expression for its reactance.
+
+(b) Draw graphs showing variation of voltage and current with time over one cycle of ac, for X.
+
+(c) How does the reactance of the device X vary with frequency of the ac ? Show this variation graphically.
+
+(d) Draw the phasor diagram for the device X.
+
+
+
+
+
+
+
+
+
+
